@@ -8,16 +8,12 @@ sites:
     delay: 1800000  # 30 minutos
   - name: Site Secundario VCSOFT
     url: https://www1.vc-soft.com
-    delay: 300000 # 5 minutos
   - name: Mail VCSOFT Roundcube
     url: https://mail.vc-soft.com/mail
-    delay: 300000 # 5 minutos
   - name: Mail VCSOFT SOGo
     url: https://mail.vc-soft.com/SOGo
-    delay: 300000 # 5 minutos
   - name: Training VCSOFT
     url: https://training.vc-soft.com
-    delay: 300000 # 5 minutos
 
 
 status-website:
