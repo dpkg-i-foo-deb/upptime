@@ -23,6 +23,14 @@ sites:
     url: https://mail.vc-soft.com/SOGo
   - name: Training VCSOFT
     url: https://training.vc-soft.com
+  - name: CRM VCSOFT
+    url: https://crm.vc-soft.com
+  - name: Invoice Colombia
+    url: https://col.invoice.vc-soft.com
+  - name: Invoice Chile
+    url: https://ch.invoice.vc-soft.com
+  - name: Invoice Argentina
+    url: https://ar.invoice.vc-soft.com
   - name: VPN VCSOFT
     check: "tcp-ping"
     url: vpn.vc-soft.com
