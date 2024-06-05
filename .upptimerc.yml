@@ -14,6 +14,10 @@ sites:
     url: https://mail.vc-soft.com/SOGo
   - name: Training VCSOFT
     url: https://training.vc-soft.com
+  - name: VPN VCSOFT
+    check: "tcp-ping"
+    url: vpn.vc-soft.com
+    port: 4500
 
 
 status-website:
