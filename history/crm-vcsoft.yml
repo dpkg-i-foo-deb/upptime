@@ -1,7 +1,7 @@
 url: https://crm.vc-soft.com
-status: up
-code: 200
-responseTime: 436
-lastUpdated: 2024-06-05T23:19:46.691Z
+status: down
+code: 503
+responseTime: 21619
+lastUpdated: 2024-06-06T05:13:57.060Z
 startTime: 2024-06-05T16:35:32.175Z
 generator: Upptime <https://github.com/upptime/upptime>
