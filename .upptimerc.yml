@@ -56,7 +56,64 @@ status-website:
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
-  # ...
+  incidentReport: "Reporte del incidente #$NUMBER →"
+  activeIncidentSummary: Inició el $DATE con $POSTS comentarios
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: Activo
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes anteriores
+  pastIncidentsResolved: Solucionado en $MINUTES minutos con $POSTS comentarios
+  liveStatus: Estado en vivo
+  overallUptime: "Disponibilidad general: $UPTIME"
+  overallUptimeTitle: Disponibilidad general
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Tiempo de respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta en los últimos 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Activo
+  down: Inactivo
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Este sitio es de [código abierto]($REPO), utilizando [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Límite de peticiones excedido
+  rateLimitExceededIntro: Has excedido el número de peticiones que puedes realizar en una hora, tendrás que esperar una hora para acceder nuevamente. Alternativamente, puedes utilizar un token de acceso de GitHub para acceder.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio utiliza la API de GitHub para acceder a los datos en tiempo real de nuestros sitios. Por defecto, GitHub permite 60 peticiones por hora, las cuales has excedido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo lo puedo solucionar?
+  rateLimitExceededErrorFix: Puedes esperar una hora y el límite de peticiones de tu dirección IP será restaurado. Alternativamente, puedes utilizar un token de acceso de GitHub y realizar 5000 peticiones en una hora.
+  rateLimitExceededGeneratePAT: Aprende cómo generar un token de acceso
+  rateLimitExceededHasSet: Hasta establecido un token de acceso.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: Token de acceso de GitHub
+  rateLimitExceededCopyPastePAT: Copiar y pegar token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Ocurrió un error tratando de obtener las estadísticas.
+  errorText: Puedes intentar de nuevo en unos momentos.
+  errorHome: Ir al inicio
+  pastScheduledMaintenance: Mantenimientos programados con anterioridad
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Inició el $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia $DATE durante $DURATION minutos
+  startedAt: Inició el
+  startsAt: Finalizó el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: todo
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
