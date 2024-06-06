@@ -18,22 +18,22 @@ sites:
   - name: Site Secundario VCSOFT
     url: https://www1.vc-soft.com
   - name: Mail VCSOFT Roundcube
-    url: https://mail.vc-soft.com/mail
+    url: $VCSOFT_MAIL
   - name: Mail VCSOFT SOGo
-    url: https://mail.vc-soft.com/SOGo
+    url: $VCSOFT_SOGO_MAIL
   - name: Training VCSOFT
     url: https://training.vc-soft.com
   - name: CRM VCSOFT
-    url: https://crm.vc-soft.com
+    url: $VCSOFT_CRM
   - name: Invoice Colombia
-    url: https://col.invoice.vc-soft.com
+    url: $INVOICE_COLOMBIA
   - name: Invoice Chile
-    url: https://ch.invoice.vc-soft.com
+    url: $INVOICE_CHILE
   - name: Invoice Argentina
-    url: https://ar.invoice.vc-soft.com
+    url: $INVOICE_ARGENTINA
   - name: VPN VCSOFT
     check: "tcp-ping"
-    url: vpn.vc-soft.com
+    url: $VCSOFT_VPN
     port: 4500
 
 
