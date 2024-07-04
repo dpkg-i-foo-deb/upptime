@@ -11,7 +11,7 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
     "time": 467,
-    "timeDay": 2352,
+    "timeDay": 905,
     "timeWeek": 1341,
     "timeMonth": 467,
     "timeYear": 467,
@@ -26,9 +26,9 @@
     "url": "https://www1.vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/www1.vc-soft.com.ico",
     "slug": "site-secundario-vcsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -38,6 +38,7 @@
     "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-06-05": 20
     }
   },
@@ -46,9 +47,9 @@
     "url": "$VCSOFT_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-vcsoft-roundcube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,16 +58,18 @@
     "timeWeek": 425,
     "timeMonth": 423,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 0
+    }
   },
   {
     "name": "Mail VCSOFT SOGo",
     "url": "$VCSOFT_SOGO_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-vcsoft-so-go",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,16 +78,18 @@
     "timeWeek": 179,
     "timeMonth": 182,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 0
+    }
   },
   {
     "name": "Training VCSOFT",
     "url": "https://training.vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/training.vc-soft.com.ico",
     "slug": "training-vcsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,16 +98,18 @@
     "timeWeek": 612,
     "timeMonth": 535,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 0
+    }
   },
   {
     "name": "CRM VCSOFT",
     "url": "$VCSOFT_CRM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crm-vcsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -112,6 +119,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-06-06": 16
     }
   },
@@ -120,9 +128,9 @@
     "url": "$INVOICE_COLOMBIA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-colombia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -132,6 +140,7 @@
     "timeMonth": 938,
     "timeYear": 938,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-06-06": 15
     }
   },
@@ -140,9 +149,9 @@
     "url": "$INVOICE_CHILE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-chile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -152,6 +161,7 @@
     "timeMonth": 503,
     "timeYear": 503,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-06-06": 15
     }
   },
@@ -160,9 +170,9 @@
     "url": "$INVOICE_ARGENTINA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -172,6 +182,7 @@
     "timeMonth": 482,
     "timeYear": 482,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-06-06": 15
     }
   },
