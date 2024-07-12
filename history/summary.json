@@ -26,18 +26,19 @@
     "url": "https://www1.vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/www1.vc-soft.com.ico",
     "slug": "site-secundario-vcsoft",
-    "status": "up",
-    "uptime": "89.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "46.51%",
-    "uptimeMonth": "86.68%",
-    "uptimeYear": "89.03%",
+    "status": "down",
+    "uptime": "89.21%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "55.11%",
+    "uptimeMonth": "86.67%",
+    "uptimeYear": "89.21%",
     "time": 347,
     "timeDay": 383,
     "timeWeek": 430,
     "timeMonth": 346,
     "timeYear": 347,
     "dailyMinutesDown": {
+      "2024-07-12": 3,
       "2024-07-08": 1139,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -51,10 +52,10 @@
     "url": "$VCSOFT_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-vcsoft-roundcube",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 428,
@@ -63,6 +64,7 @@
     "timeMonth": 413,
     "timeYear": 428,
     "dailyMinutesDown": {
+      "2024-07-12": 2,
       "2024-07-04": 16
     }
   },
@@ -71,10 +73,10 @@
     "url": "$VCSOFT_SOGO_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-vcsoft-so-go",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 183,
@@ -83,6 +85,7 @@
     "timeMonth": 175,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2024-07-12": 2,
       "2024-07-04": 16
     }
   },
@@ -91,10 +94,10 @@
     "url": "https://training.vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/training.vc-soft.com.ico",
     "slug": "training-vcsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 546,
@@ -103,6 +106,7 @@
     "timeMonth": 549,
     "timeYear": 546,
     "dailyMinutesDown": {
+      "2024-07-12": 1,
       "2024-07-04": 16
     }
   },
@@ -111,10 +115,10 @@
     "url": "$VCSOFT_CRM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crm-vcsoft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 1240,
@@ -123,6 +127,7 @@
     "timeMonth": 1088,
     "timeYear": 1240,
     "dailyMinutesDown": {
+      "2024-07-12": 1,
       "2024-07-04": 16,
       "2024-06-06": 16
     }
@@ -132,9 +137,9 @@
     "url": "$INVOICE_COLOMBIA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-colombia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
@@ -144,6 +149,7 @@
     "timeMonth": 1077,
     "timeYear": 1229,
     "dailyMinutesDown": {
+      "2024-07-12": 0,
       "2024-07-04": 16,
       "2024-06-06": 15
     }
@@ -153,9 +159,9 @@
     "url": "$INVOICE_CHILE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-chile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
@@ -165,6 +171,7 @@
     "timeMonth": 1086,
     "timeYear": 884,
     "dailyMinutesDown": {
+      "2024-07-12": 0,
       "2024-07-04": 16,
       "2024-06-06": 15
     }
@@ -174,9 +181,9 @@
     "url": "$INVOICE_ARGENTINA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
@@ -186,6 +193,7 @@
     "timeMonth": 495,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2024-07-12": 0,
       "2024-07-04": 16,
       "2024-06-06": 15
     }
