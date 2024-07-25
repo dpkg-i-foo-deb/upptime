@@ -12,18 +12,18 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 sites:
-  - name: Site Principal VCSOFT
+  - name: Site Principal
     url: https://vc-soft.com
     delay: 1800000  # 30 minutos
-  - name: Site Secundario VCSOFT
+  - name: Site Secundario
     url: https://www1.vc-soft.com
-  - name: Mail VCSOFT Roundcube
+  - name: Mail Roundcube
     url: $VCSOFT_MAIL
-  - name: Mail VCSOFT SOGo
+  - name: Mail SOGo
     url: $VCSOFT_SOGO_MAIL
-  - name: Training VCSOFT
+  - name: Training
     url: https://training.vc-soft.com
-  - name: CRM VCSOFT
+  - name: CRM
     url: $VCSOFT_CRM
   - name: Invoice Colombia
     url: $INVOICE_COLOMBIA
@@ -31,11 +31,18 @@ sites:
     url: $INVOICE_CHILE
   - name: Invoice Argentina
     url: $INVOICE_ARGENTINA
-  - name: VPN VCSOFT
+  - name: VPN
     check: "tcp-ping"
     url: $VCSOFT_VPN
     port: 4500
-
+  - name: Portal TBK Clientes
+    url: $PORTAL_TBK_CLIENTES
+  - name: Portal TBK Clientes Sandbox
+    url: $PORTAL_TBK_CLIENTES_SANDBOX
+  - name: Portal TBK Partners
+    url: $PORTAL_TBK_PARTNERS
+  - name: Portal TBK Partners Sandbox
+    url: $PORTAL_TBK_PARTNERS_SANDBOX
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
