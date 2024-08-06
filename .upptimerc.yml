@@ -15,8 +15,6 @@ sites:
   - name: Site Principal
     url: https://vc-soft.com
     delay: 1800000  # 30 minutos
-  - name: Site Secundario
-    url: https://www1.vc-soft.com
   - name: Mail Roundcube
     url: $VCSOFT_MAIL
   - name: Mail SOGo
