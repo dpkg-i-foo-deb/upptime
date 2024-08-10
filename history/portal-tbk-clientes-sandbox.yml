@@ -1,7 +1,7 @@
 url: $PORTAL_TBK_CLIENTES_SANDBOX
 status: down
-code: 504
-responseTime: 511
-lastUpdated: 2024-08-10T08:30:30.320Z
+code: 502
+responseTime: 133
+lastUpdated: 2024-08-10T23:20:33.632Z
 startTime: 2024-07-25T21:06:48.581Z
 generator: Upptime <https://github.com/upptime/upptime>
