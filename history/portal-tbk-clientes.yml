@@ -1,7 +1,7 @@
 url: $PORTAL_TBK_CLIENTES
 status: down
-code: 504
-responseTime: 913
-lastUpdated: 2024-08-10T08:30:26.089Z
+code: 502
+responseTime: 236
+lastUpdated: 2024-08-10T23:20:33.046Z
 startTime: 2024-07-25T21:06:47.868Z
 generator: Upptime <https://github.com/upptime/upptime>
