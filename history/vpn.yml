@@ -1,7 +1,7 @@
 url: $VCSOFT_VPN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-09T03:05:18.735Z
+status: up
+code: 200
+responseTime: 68
+lastUpdated: 2024-10-09T03:27:01.501Z
 startTime: 2024-07-25T21:06:47.141Z
 generator: Upptime <https://github.com/upptime/upptime>
