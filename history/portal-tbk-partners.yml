@@ -1,7 +1,7 @@
 url: $PORTAL_TBK_PARTNERS
-status: down
-code: 502
-responseTime: 131
-lastUpdated: 2024-10-10T03:18:11.539Z
+status: up
+code: 200
+responseTime: 126
+lastUpdated: 2024-10-10T04:13:29.092Z
 startTime: 2024-07-25T21:06:48.939Z
 generator: Upptime <https://github.com/upptime/upptime>
