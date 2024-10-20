@@ -1,7 +1,7 @@
 url: $VCSOFT_SOGO_MAIL
-status: up
-code: 200
-responseTime: 165
-lastUpdated: 2024-10-19T23:20:24.493Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-10-20T16:22:57.017Z
 startTime: 2024-07-25T21:06:42.491Z
 generator: Upptime <https://github.com/upptime/upptime>
