@@ -1,7 +1,7 @@
 url: $VCSOFT_CRM
-status: down
-code: 503
-responseTime: 21808
-lastUpdated: 2025-03-19T22:44:00.132Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2025-03-19T22:50:38.624Z
 startTime: 2024-07-25T21:06:43.894Z
 generator: Upptime <https://github.com/upptime/upptime>
