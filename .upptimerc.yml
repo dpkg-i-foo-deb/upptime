@@ -29,10 +29,6 @@ sites:
     url: $INVOICE_CHILE
   - name: Invoice Argentina
     url: $INVOICE_ARGENTINA
-  - name: VPN
-    check: "tcp-ping"
-    url: $VCSOFT_VPN
-    port: 4500
   - name: Portal TBK Clientes
     url: $PORTAL_TBK_CLIENTES
   - name: Portal TBK Clientes Sandbox
