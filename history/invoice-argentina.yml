@@ -1,7 +1,7 @@
 url: $INVOICE_ARGENTINA
-status: down
-code: 503
-responseTime: 27580
-lastUpdated: 2025-05-14T23:27:05.315Z
+status: up
+code: 200
+responseTime: 560
+lastUpdated: 2025-05-15T14:40:22.878Z
 startTime: 2024-06-05T16:35:35.276Z
 generator: Upptime <https://github.com/upptime/upptime>
