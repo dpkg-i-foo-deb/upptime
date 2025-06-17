@@ -15,6 +15,12 @@ sites:
   - name: Site Principal
     url: https://vc-soft.com
     delay: 1800000  # 30 minutos
+  - name: VPN Soporte
+    url: $VPN_SOPORTE
+  - name: VPN Sodimac
+    url: $VPN_SODIMAC
+  - name: VPN Davivienda
+    url: $VPN_DAVIVIENDA
   - name: Mail Roundcube
     url: $VCSOFT_MAIL
   - name: Mail SOGo
