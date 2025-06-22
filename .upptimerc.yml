@@ -21,8 +21,8 @@ sites:
     url: $VPN_SODIMAC
   - name: VPN Davivienda
     url: $VPN_DAVIVIENDA
-  - name: Mail SOGo
-    url: $VCSOFT_SOGO_MAIL
+  - name: Mail
+    url: $VCSOFT_MAIL
   - name: Training
     url: https://training.vc-soft.com
   - name: CRM
