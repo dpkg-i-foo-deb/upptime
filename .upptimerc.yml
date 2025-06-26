@@ -21,6 +21,8 @@ sites:
     url: $VPN_SODIMAC
   - name: VPN Davivienda
     url: $VPN_DAVIVIENDA
+  - name: AWX
+    url: $AWX
   - name: Mail
     url: $VCSOFT_MAIL
   - name: Training
