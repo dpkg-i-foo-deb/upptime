@@ -56,19 +56,19 @@
     "url": "$KEYCLOAK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portal-de-autenticacion",
-    "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
-    "time": 490,
-    "timeDay": 490,
-    "timeWeek": 490,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "status": "up",
+    "uptime": "5.06%",
+    "uptimeDay": "5.06%",
+    "uptimeWeek": "5.06%",
+    "uptimeMonth": "5.06%",
+    "uptimeYear": "5.06%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-06-26": 1
+      "2025-06-26": 4
     }
   },
   {
