@@ -1,7 +1,7 @@
 url: $INVOICE_CHILE
-status: up
-code: 200
-responseTime: 560
-lastUpdated: 2025-09-08T16:36:40.756Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-09-08T17:22:18.744Z
 startTime: 2024-06-05T16:35:34.371Z
 generator: Upptime <https://github.com/upptime/upptime>
