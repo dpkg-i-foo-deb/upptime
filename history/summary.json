@@ -240,12 +240,12 @@
     "url": "https://training.vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/training.vc-soft.com.ico",
     "slug": "training",
-    "status": "up",
+    "status": "down",
     "uptime": "97.11%",
-    "uptimeDay": "89.90%",
+    "uptimeDay": "89.87%",
     "uptimeWeek": "93.57%",
     "uptimeMonth": "95.57%",
-    "uptimeYear": "96.61%",
+    "uptimeYear": "96.62%",
     "time": 1561,
     "timeDay": 752,
     "timeWeek": 1739,
@@ -317,8 +317,7 @@
       "2024-11-06": 17,
       "2024-10-21": 872,
       "2024-10-20": 457,
-      "2024-10-18": 124,
-      "2024-10-09": 25
+      "2024-10-18": 124
     }
   },
   {
@@ -539,7 +538,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-chile",
     "status": "up",
-    "uptime": "86.57%",
+    "uptime": "86.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.29%",
@@ -644,7 +643,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-argentina",
     "status": "up",
-    "uptime": "86.58%",
+    "uptime": "86.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.29%",
