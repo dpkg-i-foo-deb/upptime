@@ -248,12 +248,12 @@
     "url": "https://training.vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/training.vc-soft.com.ico",
     "slug": "training",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "90.53%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "90.52%",
     "uptimeMonth": "93.39%",
-    "uptimeYear": "97.25%",
+    "uptimeYear": "97.35%",
     "time": 1626,
     "timeDay": 7623,
     "timeWeek": 2955,
@@ -310,8 +310,7 @@
       "2025-07-03": 91,
       "2025-07-02": 64,
       "2025-06-28": 24,
-      "2025-06-25": 19,
-      "2025-06-18": 506
+      "2025-06-25": 19
     }
   },
   {
@@ -320,7 +319,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "87.58%",
+    "uptime": "87.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "94.16%",
