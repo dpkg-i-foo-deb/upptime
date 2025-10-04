@@ -248,10 +248,10 @@
     "url": "https://training.vc-soft.com",
     "icon": "https://icons.duckduckgo.com/ip3/training.vc-soft.com.ico",
     "slug": "training",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "90.55%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "90.57%",
     "uptimeMonth": "93.34%",
     "uptimeYear": "97.35%",
     "time": 1623,
@@ -260,6 +260,7 @@
     "timeMonth": 1905,
     "timeYear": 1768,
     "dailyMinutesDown": {
+      "2025-10-04": 0,
       "2025-10-03": 70,
       "2025-10-02": 166,
       "2025-10-01": 162,
@@ -309,8 +310,7 @@
       "2025-07-04": 47,
       "2025-07-03": 91,
       "2025-07-02": 64,
-      "2025-06-28": 24,
-      "2025-06-25": 19
+      "2025-06-28": 24
     }
   },
   {
@@ -639,7 +639,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "invoice-argentina",
     "status": "up",
-    "uptime": "86.78%",
+    "uptime": "86.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "94.18%",
