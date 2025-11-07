@@ -1,7 +1,7 @@
 url: $PORTAL_TBK_CLIENTES
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-07T07:59:20.085Z
+status: up
+code: 200
+responseTime: 268
+lastUpdated: 2025-11-07T08:27:13.619Z
 startTime: 2024-07-25T21:06:47.868Z
 generator: Upptime <https://github.com/upptime/upptime>
