@@ -25,7 +25,9 @@ sites:
     url: $VPN_DAVIVIENDA
   - name: AWX
     url: $AWX
-  - name: Mail
+  - name: Mail Gateway
+    url: $EMAIL_GATEWAY
+  - name: Mail UI
     url: $VCSOFT_MAIL
   - name: Training
     url: https://training.vc-soft.com
