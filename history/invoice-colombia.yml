@@ -1,7 +1,7 @@
 url: $INVOICE_COLOMBIA
-status: down
-code: 503
-responseTime: 21581
-lastUpdated: 2025-11-17T23:25:31.558Z
+status: up
+code: 200
+responseTime: 445
+lastUpdated: 2025-11-18T09:29:59.284Z
 startTime: 2024-06-05T16:35:33.037Z
 generator: Upptime <https://github.com/upptime/upptime>
