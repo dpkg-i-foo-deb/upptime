@@ -29,6 +29,8 @@ sites:
     url: $EMAIL_GATEWAY
   - name: Mail UI
     url: $VCSOFT_MAIL
+  - name: Apache Guacamole 🥑
+    url: https://workspace.vc-soft.com
   - name: Training
     url: https://training.vc-soft.com
   - name: CRM
