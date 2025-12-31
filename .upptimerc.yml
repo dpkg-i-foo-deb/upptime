@@ -30,7 +30,7 @@ sites:
   - name: Mail UI
     url: $VCSOFT_MAIL
   - name: Apache Guacamole 🥑
-    url: https://workspace.vc-soft.com
+    url: $APACHE_GUACAMOLE
   - name: Training
     url: https://training.vc-soft.com
   - name: CRM
