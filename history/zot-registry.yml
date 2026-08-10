@@ -1,7 +1,7 @@
 url: https://registry.baremetalcloud.org
-status: down
-code: 502
-responseTime: 3662
-lastUpdated: 2026-08-09T23:32:55.207Z
+status: up
+code: 200
+responseTime: 1087
+lastUpdated: 2026-08-10T15:38:02.855Z
 startTime: 2026-04-27T02:15:22.933Z
 generator: Upptime <https://github.com/upptime/upptime>
