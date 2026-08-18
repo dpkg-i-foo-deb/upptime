@@ -4,17 +4,17 @@
     "url": "https://music.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/music.baremetalcloud.org.ico",
     "slug": "navidrome",
-    "status": "down",
-    "uptime": "97.59%",
-    "uptimeDay": "83.14%",
-    "uptimeWeek": "92.85%",
-    "uptimeMonth": "92.07%",
-    "uptimeYear": "97.59%",
-    "time": 1838,
-    "timeDay": 1871,
-    "timeWeek": 2192,
-    "timeMonth": 2047,
-    "timeYear": 1838,
+    "status": "up",
+    "uptime": "97.40%",
+    "uptimeDay": "61.50%",
+    "uptimeWeek": "89.76%",
+    "uptimeMonth": "91.36%",
+    "uptimeYear": "97.40%",
+    "time": 1836,
+    "timeDay": 1699,
+    "timeWeek": 2140,
+    "timeMonth": 2035,
+    "timeYear": 1836,
     "dailyMinutesDown": {
       "2026-04-30": 106,
       "2026-05-11": 208,
@@ -27,7 +27,7 @@
       "2026-08-09": 592,
       "2026-08-15": 19,
       "2026-08-16": 458,
-      "2026-08-18": 243
+      "2026-08-18": 554
     }
   },
   {
@@ -71,17 +71,17 @@
     "url": "https://photos.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/photos.baremetalcloud.org.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "97.98%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "97.98%",
-    "time": 1316,
-    "timeDay": 1217,
-    "timeWeek": 1476,
-    "timeMonth": 1437,
-    "timeYear": 1316,
+    "status": "up",
+    "uptime": "97.80%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "92.36%",
+    "uptimeMonth": "92.83%",
+    "uptimeYear": "97.80%",
+    "time": 1315,
+    "timeDay": 1215,
+    "timeWeek": 1454,
+    "timeMonth": 1432,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2026-04-30": 106,
       "2026-05-11": 207,
@@ -94,7 +94,7 @@
       "2026-08-09": 592,
       "2026-08-15": 19,
       "2026-08-16": 420,
-      "2026-08-18": 19
+      "2026-08-18": 331
     }
   },
   {
@@ -158,16 +158,16 @@
     "url": "https://registry.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/registry.baremetalcloud.org.ico",
     "slug": "zot-registry",
-    "status": "down",
-    "uptime": "98.29%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "98.29%",
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "77.69%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "93.98%",
+    "uptimeYear": "98.11%",
     "time": 1235,
-    "timeDay": 1049,
-    "timeWeek": 1433,
-    "timeMonth": 1379,
+    "timeDay": 1119,
+    "timeWeek": 1413,
+    "timeMonth": 1374,
     "timeYear": 1235,
     "dailyMinutesDown": {
       "2026-04-30": 106,
@@ -179,7 +179,7 @@
       "2026-08-09": 591,
       "2026-08-15": 19,
       "2026-08-16": 420,
-      "2026-08-18": 10
+      "2026-08-18": 321
     }
   },
   {
@@ -187,17 +187,17 @@
     "url": "https://woodpecker.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/woodpecker.baremetalcloud.org.ico",
     "slug": "woodpecker-ci",
-    "status": "down",
-    "uptime": "93.87%",
-    "uptimeDay": "83.79%",
+    "status": "up",
+    "uptime": "93.69%",
+    "uptimeDay": "62.14%",
     "uptimeWeek": "23.33%",
-    "uptimeMonth": "78.22%",
-    "uptimeYear": "93.87%",
-    "time": 1241,
-    "timeDay": 1024,
-    "timeWeek": 2240,
-    "timeMonth": 1642,
-    "timeYear": 1241,
+    "uptimeMonth": "77.51%",
+    "uptimeYear": "93.69%",
+    "time": 1240,
+    "timeDay": 1030,
+    "timeWeek": 2106,
+    "timeMonth": 1626,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2026-04-30": 106,
       "2026-05-11": 207,
@@ -212,7 +212,7 @@
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
-      "2026-08-18": 233
+      "2026-08-18": 545
     }
   }
 ]
