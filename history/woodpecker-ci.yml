@@ -1,7 +1,7 @@
 url: https://woodpecker.baremetalcloud.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-22T23:30:14.772Z
+status: up
+code: 200
+responseTime: 864
+lastUpdated: 2026-08-23T03:24:59.597Z
 startTime: 2026-04-27T02:15:26.133Z
 generator: Upptime <https://github.com/upptime/upptime>
