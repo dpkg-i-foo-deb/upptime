@@ -4,12 +4,12 @@
     "url": "https://music.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/music.baremetalcloud.org.ico",
     "slug": "navidrome",
-    "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "90.84%",
-    "uptimeWeek": "87.97%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "97.14%",
+    "status": "down",
+    "uptime": "97.13%",
+    "uptimeDay": "88.87%",
+    "uptimeWeek": "87.69%",
+    "uptimeMonth": "90.59%",
+    "uptimeYear": "97.13%",
     "time": 1859,
     "timeDay": 2201,
     "timeWeek": 2026,
@@ -31,7 +31,7 @@
       "2026-08-21": 416,
       "2026-08-22": 48,
       "2026-08-23": 63,
-      "2026-08-24": 132
+      "2026-08-24": 160
     }
   },
   {
@@ -75,12 +75,12 @@
     "url": "https://photos.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/photos.baremetalcloud.org.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "90.86%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "93.19%",
-    "uptimeYear": "97.76%",
+    "status": "down",
+    "uptime": "97.75%",
+    "uptimeDay": "89.55%",
+    "uptimeWeek": "94.14%",
+    "uptimeMonth": "93.15%",
+    "uptimeYear": "97.75%",
     "time": 1347,
     "timeDay": 1866,
     "timeWeek": 1604,
@@ -101,7 +101,7 @@
       "2026-08-18": 331,
       "2026-08-22": 47,
       "2026-08-23": 63,
-      "2026-08-24": 132
+      "2026-08-24": 151
     }
   },
   {
@@ -165,11 +165,11 @@
     "url": "https://registry.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/registry.baremetalcloud.org.ico",
     "slug": "zot-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "94.53%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "94.50%",
     "uptimeYear": "98.13%",
     "time": 1259,
     "timeDay": 1049,
@@ -188,7 +188,8 @@
       "2026-08-16": 420,
       "2026-08-18": 321,
       "2026-08-22": 46,
-      "2026-08-23": 63
+      "2026-08-23": 63,
+      "2026-08-24": 10
     }
   },
   {
@@ -196,9 +197,9 @@
     "url": "https://woodpecker.baremetalcloud.org",
     "icon": "https://icons.duckduckgo.com/ip3/woodpecker.baremetalcloud.org.ico",
     "slug": "woodpecker-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "93.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "91.19%",
     "uptimeMonth": "77.52%",
     "uptimeYear": "93.79%",
@@ -223,7 +224,8 @@
       "2026-08-11": 1440,
       "2026-08-18": 545,
       "2026-08-22": 138,
-      "2026-08-23": 205
+      "2026-08-23": 205,
+      "2026-08-24": 0
     }
   }
 ]
