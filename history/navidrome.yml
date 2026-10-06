@@ -1,7 +1,7 @@
 url: https://music.baremetalcloud.org
-status: up
-code: 200
-responseTime: 9402
-lastUpdated: 2026-10-06T02:43:26.661Z
+status: down
+code: 502
+responseTime: 3525
+lastUpdated: 2026-10-06T13:55:01.782Z
 startTime: 2026-04-27T02:08:13.655Z
 generator: Upptime <https://github.com/upptime/upptime>
